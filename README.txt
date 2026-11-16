@@ -1,23 +1,30 @@
-KEERTHANA D C — UI/UX PORTFOLIO WEBSITE
+KEERTHANA D C — UI/UX PORTFOLIO
 
-HOW TO PREVIEW
+This package keeps the Naomi-inspired portfolio homepage and updates only the
+PARCELLY case-study page so it visually matches the existing portfolio.
+
+PREVIEW
 1. Extract the ZIP.
-2. Open index.html in Chrome.
+2. Open portfolio_work/index.html in Chrome.
+3. From the Work section, choose “View full case study” on PARCELLY.
 
-HOW TO PUBLISH ON GITHUB PAGES
-1. Open your GitHub portfolio repository.
-2. Download/copy the contents of this folder.
-3. Upload index.html, style.css, script.js, and parcelly-case-study.html to the repository root (or replace the existing site files after backing them up).
-4. Commit the changes.
-5. Wait for GitHub Pages to rebuild, then refresh your portfolio URL.
+PUBLISH ON GITHUB PAGES
+1. Open your existing GitHub portfolio repository.
+2. Back up the current repository files.
+3. Upload/replace the contents inside portfolio_work/ at the same location
+   where your existing index.html, style.css, script.js and assets folder live.
+4. Keep the assets/parcelly-screens/ folder in the same relative location.
+5. Commit the changes and refresh your GitHub Pages website after it publishes.
 
-PERSONALIZE BEFORE PUBLISHING
-- In index.html, replace your.email@example.com with your real email.
-- Replace the generic LinkedIn and GitHub profile URLs with your profile URLs.
-- Review the bio and skills to ensure they accurately reflect your experience.
-- The PARCELLY case study is presented as a concept project, not a launched product.
+WHAT WAS CHANGED
+- The existing homepage, avatar, CardioCare section, skills, experience,
+  education and contact section are retained.
+- The Parcelly case-study page has been restyled to match the homepage's
+  paper / ink / orange / lime visual language and typography.
+- The project shows the 24 supplied PNG screens in five journey groups.
+- The previous flight-booking project is not included.
 
-PROJECT CONTENT
-- PARCELLY is included as the featured project.
-- Aeriva and Enterprise AI Chatbot are not included.
-- Other projects are not invented; the page invites you to add more case studies later.
+PROJECT NOTE
+PARCELLY is presented as a mobile app concept. The case study describes the
+project scope and screens without claiming that it is a launched product or
+that user research/testing has been completed.
